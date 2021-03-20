@@ -37,7 +37,7 @@ Location of UUID and Secret:
 
 ## Configuration
 
-After installing this add-on, you will find configuration options in the openHAB portal under _Settings -> Other Services -> openHAB Cloud_:
+After installing this add-on, you will find configuration options in the openHAB portal under _Configuration -> Services -> openHAB Cloud -> CONFIGURE_:
 
 ![Configuration](contrib/doc/cfg.png)
 
